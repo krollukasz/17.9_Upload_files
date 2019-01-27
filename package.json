@@ -1,0 +1,28 @@
+{
+  "name": "17.9_upload_files",
+  "version": "1.0.0",
+  "description": "Upload files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/17.9_Upload_files.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "learning\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C",
+    "nodemon",
+    "npm",
+    "learning",
+    "upload_files"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/17.9_Upload_files/issues"
+  },
+  "homepage": "https://github.com/krollukasz/17.9_Upload_files#readme"
+}
