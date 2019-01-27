@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/krollukasz/17.9_Upload_files/issues"
   },
-  "homepage": "https://github.com/krollukasz/17.9_Upload_files#readme"
+  "homepage": "https://github.com/krollukasz/17.9_Upload_files#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
 }
